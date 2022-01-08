@@ -15,6 +15,7 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
+    <a href="https://github.com/johnfercher/public"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/johnathan-fercher/"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://johnathanfercher.medium.com/"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="https://stackoverflow.com/users/7805948/johnathan-fercher"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
