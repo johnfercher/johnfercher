@@ -5,13 +5,17 @@
     <a href="https://www.reddit.com/user/jfercher"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/johnfercher">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnfercher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnfercher&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
+</div
 
-<div style="display: inline_block" align="center"><br>
+<br>
+
+<div style="display: inline_block" align="center">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
