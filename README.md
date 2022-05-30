@@ -20,4 +20,7 @@
     <a href="https://johnfercher.medium.com/"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="https://stackoverflow.com/users/7805948/john-fercher"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://www.reddit.com/user/jfercher"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+    <a href="https://soundcloud.com/john-fercher"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Soundcloud-FF5A06?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
 </div>
+
+
