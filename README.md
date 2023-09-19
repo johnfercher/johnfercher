@@ -21,4 +21,8 @@
     <a href="https://www.youtube.com/@johnfercher"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>
 
-
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/johnfercher/johnfercher" alt="Visitors badge" />
+   </a>
+</p>
