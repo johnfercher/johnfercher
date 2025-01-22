@@ -17,7 +17,7 @@
 <div style="display: inline_block" align="center"><br>
     <a href="https://www.linkedin.com/in/johnathan-fercher/"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://johnfercher.medium.com/"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://www.threads.net/@john_fercher"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Threads-090909?style=for-the-badge&logo=threads&logoColor=white" /></a>
+    <a href="https://bsky.app/profile/johnfercher.bsky.social"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Bluesky-1285FE?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
 </div>
 
 <p align="right">
